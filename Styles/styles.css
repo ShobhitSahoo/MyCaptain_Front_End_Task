@@ -477,3 +477,6 @@ nav ul li a:hover {
     filter: blur(30px);
     
 }
+section {
+    background: #000;
+}
